@@ -1,0 +1,12 @@
+{
+  "name": "build-orchestrator",
+  "version": "1.0.0",
+  "description": "Internal multi-stage build orchestration service",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "test": "echo 'No tests defined'",
+    "start": "node index.js",
+    "deploy": "node src/index.js"
+  },
+  "dependencies": {}
+}
